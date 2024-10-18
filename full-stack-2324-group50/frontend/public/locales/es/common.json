@@ -1,0 +1,27 @@
+{
+    "Login": "acceso",
+    "menu": {
+        "Profile": "Perfil",
+        "Manage Friends": "Administrar Amigos",
+        "Settings": "Configuración",
+        "Logout": "Cerrar Sesión"
+    },
+    "Logout": "Cerrar Sesión",
+    "Sign": "Firmar",
+    "Rnumber": "r-número",
+    "Password": "Contraseña",
+    "AddChat":"Añadir chat",
+    "Username":"Nombre",
+    "AdminPage": "PÁGINA DE ADMINISTRACIÓN",
+    "FindStudentOrLector": "Buscar un estudiante o profesor",
+    "EditInfo": "Editar información de usuarios",
+    "Name": "Nombre",
+    "Role": "Rol",
+    "Nationality": "Nacionalidad",
+    "Age": "Edad",
+    "EditInfoButton": "Editar información",
+    "DeleteButton": "Eliminar usuario",
+    "Back": "Volver"
+    
+    
+}

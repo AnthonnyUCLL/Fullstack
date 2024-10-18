@@ -1,0 +1,26 @@
+{
+    "Login": "login",
+    "Menu" : {
+        "Profile": "Profile",
+        "Manage Friends": "Manage Friends",
+        "Settings": "Settings",
+        "Logout": "Logout"
+    },
+    "Logout": "Logout",
+    "Sign": "sign in",
+    "Rnumber": "r-number",
+    "Password": "Password",
+    "AddChat":"Add chat",
+    "AdminPage": "ADMIN PAGE",
+    "FindStudentOrLector": "Find a student or lector",
+    "EditInfo": "Edit Users information",
+    "Name": "Name",
+    "Username":"Username",
+    "Role": "Role",
+    "Nationality": "Nationality",
+    "Age": "Age",
+    "EditInfoButton": "Edit Info",
+    "DeleteButton": "Delete User",
+    "Back": "Back"
+ 
+}

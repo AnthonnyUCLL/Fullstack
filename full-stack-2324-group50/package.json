@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@mui/icons-material": "^5.11.9",
+    "@mui/material": "^5.11.9",
+    "@mui/styles": "^5.14.4",
+    "@mui/x-data-grid": "^6.10.2",
+    "@mui/x-data-grid-generator": "^6.10.2",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/react": "^17.0.70",
+    "@types/react-dom": "^18.2.15",
+    "ag-grid-react": "^30.0.6",
+    "axios": "^1.6.1",
+    "next": "^14.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.1",
+    "react-scripts": "^5.0.1",
+    "typescript": "^5.2.2",
+    "web-vitals": "^2.1.4"
+  }
+}
